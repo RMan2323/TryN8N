@@ -1,4 +1,6 @@
-#include <stdio.h>int main(void) {
-    printf("Hello, world!\n");
+#include <stdio.h>
+
+int main() {
+    printf("I am amethyst\n");
     return 0;
 }
